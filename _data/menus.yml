@@ -11,6 +11,10 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
+  - name: "News"
+    url: "/news/"
+    weight: 6
+
 
 footer:
   - name: "Home"
