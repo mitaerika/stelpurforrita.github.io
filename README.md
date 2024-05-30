@@ -1,6 +1,6 @@
-# Jekyll Serif Theme
+# Stelpur Forrita website
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
+This website is created with Jekyll Serif Theme template created by zerostatic. Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
 
 [Live Demo](https://jekyll-serif.netlify.app/) |
 [Zerostatic Themes](https://www.zerostatic.io)
