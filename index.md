@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Stelpur Forrita
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Stelpur Forrita is a student-first student-organized summer programming workshop for women and genderqueer individuals in Iceland. 
+intro_image: "images/illustrations/step_into_code.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Stelpur Forrita
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Are you interested in computers? Are you curious about university life as a computer science/software engineering student? Stelpur Forrita is a student-first, student-organized summer programming workshop for women and genderqueer individuals in Iceland who want to learn more about IT. Everyone over the age of 18 is welcome!
