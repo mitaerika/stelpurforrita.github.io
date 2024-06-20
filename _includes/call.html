@@ -4,7 +4,7 @@
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
-     -->
+  
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Any questions?</strong>
     </div>
@@ -12,10 +12,14 @@
       {{ site.data.contact.email }}
     </a>
     {% endif %}
+  -->
+  <div class="call-email"><strong>Want to join us?</strong>
+  </div>
+  <a>Register here by 22 July 2024</a>
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
-        <a href="{{ site.data.contact.register_button_link }}" class="button">Register</a>
+        <a href="{{ site.data.contact.register_button_link }}" class="button">Register now</a>
       </div>
     {% endif %}
 </div>

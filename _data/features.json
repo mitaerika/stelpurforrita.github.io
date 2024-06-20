@@ -3,27 +3,27 @@
     "title": "Connect with Peers",
     "description": "Get to know other women and genderqueer individuals interested in computers and programming",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/noun-embrace-4401687.svg",
+      "width": 100,
+      "height": 100
     }
   },
   {
     "title": "Connect with Role Models",
     "description": "Get in touch with successful role models thriving in various fields in IT",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/noun-help-4401693.svg",
+      "width": 100,
+      "height": 100
     }
   },
   {
     "title": "Connect Theory and Practice",
     "description": "Learn about exciting technology and projects being done in the real world",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/noun-online-education-4097351.svg",
+      "width": 100,
+      "height": 100
     }
   }
 ]

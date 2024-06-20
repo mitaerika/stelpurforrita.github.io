@@ -10,6 +10,19 @@ show_call_box: true
 
 # Stelpur Forrita
 
-###### Are you interested in computers? Are you curious about university life as a computer science/software engineering student? 
+## Stelpur Forrita is a student-first, student-organized summer programming workshop for women and genderqueer individuals in Iceland who want to learn more about IT.
 
-Stelpur Forrita is a student-first, student-organized summer programming workshop for women and genderqueer individuals in Iceland who want to learn more about IT. Everyone over the age of 18 is welcome!
+### If you are:
+* interested in computers and programming
+* curious about university life as a computer science/software engineering student
+* excited to meet other women and genderqueer individuals with the same interest as you
+<br>
+<br>
+
+### Join Stelpur Forrita on 12-16 August 2024 at the University of Iceland! Everyone over the age of 18 is welcome :)
+
+<br>
+
+    
+
+    

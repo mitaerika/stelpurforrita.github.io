@@ -78,9 +78,7 @@ For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would
 - You cannot re-sell this theme
 
 ### Credits
-
-- Stock images by Unsplash - https://unsplash.com/
-- Feature icons by Noun Project - https://thenounproject.com/
+- Feature icons from Noun Project by Teewara soontorn - https://thenounproject.com/creator/Puckung/ (CC BY 3.0)
 - Free illustrations by Storyset in Freepik - https://www.freepik.com/author/stories
 
 ## Support My Work
