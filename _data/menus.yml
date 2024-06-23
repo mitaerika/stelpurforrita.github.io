@@ -2,13 +2,13 @@ main:
 - name: "About"
   url: "/about/"
   weight: 2
-- name: "Services"
+- name: "Schedule"
   url: "/services/"
   weight: 3
 - name: "Team"
   url: "/team/"
   weight: 4
-- name: "News"
+- name: "Sponsors"
   url: "/news/"
   weight: 5
 
