@@ -1,13 +1,44 @@
 ---
-title: Schedule and Structure
+title: Structure, Agenda, and Schedule
 layout: page
 description: Schedule and structure of the Stelpur Forrita workshop
 bodyClass: page-about
 ---
 
-The structure of the Stelpur Forrita workshop is largely inspired by the success of Nanna Kristjánsdóttir's [Stelpur Forrita workshop](https://www.stelpurdiffra.is/).
+# Structure and Agenda 
 
 ![Stelpur Forrita aims to assist women and genderqueer individuals in exploring interesting topics in computer science and software enginneering](/images/illustrations/creative_collab.svg)
+
+The structure of the Stelpur Forrita workshop is largely inspired by the success of Nanna Kristjánsdóttir's [Stelpur Diffra workshop](https://www.stelpurdiffra.is/).
+
+Each day, a different theme is explored. The day will start with an introduction to the instructor(s) of the day, then the materials will be explored with a presentation, quizzes, and exercises. The general agenda can be found below:
+
+### Day 1: Introduction, mingling
+#### with Ada, Nörd, and sys/tur student representatives
+- Topics: Software development as collaborative work, GitHub
+- Lunch provided by Arion Bank
+
+### Day 2: E-Commerce
+#### with Valenttina Griffin
+- Topics: Project management, web development, bringing ideas to reality
+- Lunch provided by Arion Bank
+- Company visit to Tegra (optional attendance)
+
+### Day 3: Cybersecurity
+#### with Jacky Mallet
+- Lunch provided by Arion Bank
+- Company visit to Keystrike (optional attendance)
+
+### Day 4: AI (Language Technology)
+#### with Steinunn Rut Friðriksdóttir
+- Topics: Natural Language Processing, life in academia
+- Lunch provided by Arion Bank
+
+### Day 5: Career paths post graduation
+#### with Safa Jemai
+- Topics: Entrepreneurship, hackathon, startup competition, employment
+- Lunch provided by Arion Bank
+- Company visit to RB, closing ceremony
 
 # Schedule
 
