@@ -2,6 +2,14 @@
 // ==================================================
 @use "sass:math";
 
+.mbtablestyle {
+  border-collapse: collapse;
+
+> table, td, th {
+  border: 1px solid black;
+  }
+}
+
 .hamburger {
   padding: $hamburger-padding-y $hamburger-padding-x;
   display: inline-block;

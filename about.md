@@ -15,3 +15,10 @@ Stelpur Forrita is created with the following goals:
 1. To increase interest and participation in Computer Science and Software Engineering among women and genderqueer individuals. Long-term goal: To improve gender balance within student cohorts in the Computer Science and Software Engineering departments at the university level.
 2. To foster a sense of belonging for women and genderqueer individuals pursuing higher education in Computer Science and Software Engineering. Long-term goal: To improve gender balance in the graduating class.
 3. To facilitate a mentor-mentee relationship between women and genderqueer individuals with established careers in IT and their student counterparts. Long-term goal: To establish a sense of solidarity and unity in ensuring diverse voices and interest are advocated for in the IT field.
+
+# How we plan on achieving our goals
+
+To approach the three goals above, we strive to create a fun and informative 5-day workshop as an early engagement program in which:
+1. Participants have the opportunity to make meaningful social connections with peers who share their interest in IT.
+2. Participants can connect with role models who provide insight to academic life and career paths/opportunities after graduation.
+3. Participants can make the connection between theoretical knowledge taught at university with their real-life application, with the guidance of subject matter experts.
