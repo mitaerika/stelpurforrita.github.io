@@ -37,7 +37,7 @@ Each day, a different theme is explored. The day will start with an introduction
 ### Day 5: Career paths post graduation
 #### with Safa Jemai
 - Topics: Entrepreneurship, hackathon, startup competition, employment
-- Lunch provided by Arion Bank
+- Lunch presentation at CCP
 - Company visit to RB, closing ceremony
 
 # Schedule
