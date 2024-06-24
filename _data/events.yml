@@ -2,41 +2,49 @@
   start: "2024-08-12T09:00:00"
   end: "2024-08-12T09:59:00"
   url: "/events/event1"
+  color: '#FFFF00'
 
 - title: "Introduction to student associations"
   start: "2024-08-12T10:00:00"
   end: "2024-08-12T10:59:00"
   url: "/events/event1"
+  color: '#FFFF00'
 
 - title: "Mingling, introductory games"
-  start: "2024-08-12T10:00:00"
-  end: "2024-08-12T10:59:00"
+  start: "2024-08-12T11:00:00"
+  end: "2024-08-12T11:59:00"
   url: "/events/event1"
+  color: '#FFFF00'
 
 - title: "Lunch"
   start: "2024-08-12T12:00:00"
   end: "2024-08-12T13:00:00"
   url: "/events/event1"
+  color: '#FFFF00'
 
 - title: "GitHub theory, practice"
   start: "2024-08-12T13:01:00"
   end: "2024-08-12T16:00:00"
   url: "/events/event1"
+  color: '#FFFF00'
 
 - title: "Project management, e-commerce, web development basics"
   start: "2024-08-13T09:00:00"
   end: "2024-08-13T11:59:00"
   url: "/events/event2"
+  color: '#FFFF00'
 
 - title: "Lunch together with Stelpur Diffra?"
   start: "2024-08-13T12:00:00"
   end: "2024-08-13T13:00:00"
   url: "/events/event1"
+  color: '#FFFF00'
 
 - title: "Group projects on innovation, entrepreneurship"
   start: "2024-08-13T13:01:00"
   end: "2024-08-13T14:30:00"
   url: "/events/event2"
+  color: '#FFFF00'
 
 - title: "Travel time"
   start: "2024-08-13T14:31:00"
@@ -52,16 +60,19 @@
   start: "2024-08-14T09:00:00"
   end: "2024-08-14T11:59:00"
   url: "/events/event3"
+  color: "#FF9D85"
 
 - title: "Lunch"
   start: "2024-08-14T12:00:00"
   end: "2024-08-14T13:00:00"
   url: "/events/event1"
+  color: "#FF9D85"
 
 - title: "Cybersecurity practice"
   start: "2024-08-14T13:01:00"
   end: "2024-08-14T14:30:00"
   url: "/events/event2"
+  color: "#FF9D85"
 
 - title: "Travel time"
   start: "2024-08-14T14:31:00"
@@ -77,16 +88,19 @@
   start: "2024-08-15T09:00:00"
   end: "2024-08-15T11:59:00"
   url: "/events/event3"
+  color: '#FFFF00'
 
 - title: "Lunch"
   start: "2024-08-15T12:00:00"
   end: "2024-08-15T13:00:00"
   url: "/events/event1"
+  color: '#FFFF00'
 
 - title: "AI and language technology practice"
   start: "2024-08-15T13:01:00"
   end: "2024-08-15T14:30:00"
   url: "/events/event2"
+  color: '#FFFF00'
 
 - title: "Travel time"
   start: "2024-08-15T14:31:00"
@@ -102,11 +116,13 @@
   start: "2024-08-16T09:00:00"
   end: "2024-08-16T10:59:00"
   url: "/events/event3"
+  color: '#BDF7D6'
 
 - title: "Lunch presentation at CCP"
   start: "2024-08-16T11:00:00"
   end: "2024-08-16T13:30:00"
   url: "/events/event1"
+  color: '#BDF7D6'
 
 - title: "Travel time"
   start: "2024-08-16T13:31:00"

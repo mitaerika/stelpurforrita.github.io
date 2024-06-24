@@ -50,11 +50,11 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
 
 **Location:** University of Iceland (Háskóli Íslands) campus, Setberg and Gróska building (see timetable).
 
-- Setberg building (3rd floor), Suðurgata 43, 102 Reykjavík
+<mark> Setberg building (3rd floor), Suðurgata 43, 102 Reykjavík</mark>
 ![Setberg building at the University of Iceland](/images/locations/setberg.jpg)
 
 
-- Gróska building (3rd floor, Computer Science department), Bjargargata 1, 102 Reykjavík
+<mark style="background: #BDF7D6!important"> Gróska building (3rd floor, Computer Science department), Bjargargata 1, 102 Reykjavík </mark>
 ![Gróska building at the University of Iceland](/images/locations/groska.png)
 
 **Timetable:**
@@ -100,11 +100,13 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
             title: '{{ event.title }}',
             start: '{{ event.start }}',
             end: '{{ event.end }}',
-            url: '{{ event.url }}'
+            url: '{{ event.url }}',
+            backgroundColor: '{{ event.color }}'
           }
           {% unless forloop.last %},{% endunless %}
         {% endfor %}
       ],
+      eventTextColor: 'black',
     });
     calendar.render();
   });
@@ -112,3 +114,10 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
 </script>
 
 <div id="calendar"></div>
+<br>
+<p>Color coded locations and details:</p>
+
+<p style="background: #FFFF00">Setberg</p>
+<p style="background: #FF9D85">Háskólinn í Reykjavík?</p>
+<p style="background: #BDF7D6">Gróska</p>
+<p style="background: #1A6EF4">Optional attendance</p>
