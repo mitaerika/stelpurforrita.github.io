@@ -4,7 +4,7 @@ layout: home
 description: Stelpur Forrita is a student-first student-organized summer programming workshop for women and genderqueer individuals in Iceland. 
 intro_image: "images/illustrations/sitting_laptop.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
@@ -13,9 +13,9 @@ show_call_box: true
 ## Stelpur Forrita is a student-first, student-organized summer programming workshop for women and genderqueer individuals in Iceland who want to learn more about IT.
 
 ### If you are:
-* interested in computers and programming
-* curious about university life as a computer science/software engineering student
-* excited to meet other women and genderqueer individuals with the same interest as you
+- [x]  interested in computers and programming
+- [x]  curious about university life as a computer science/software engineering student
+- [x]  excited to meet other women and genderqueer individuals with the same interest as you
 <br>
 <br>
 

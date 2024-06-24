@@ -2,12 +2,17 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+//$primary: #e5261f;
+//$primary-dark: #a01b16;
+//$secondary: #f88379;
+//$white-offset: #fff6f8;
+
+$primary: #1A6EF4;
+$primary-dark: #2563EB;
+$secondary: #C795F9;
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+$white-offset: #F9F7FF;
 $steel: #5c5a5a;
 
 // Links
@@ -120,4 +125,12 @@ body {
 .content table{
   margin-top: 10px;
   margin-bottom: 0px;
+}
+
+input{
+  margin-right: 10px;
+}
+
+ul li{
+  list-style-type: none;
 }
