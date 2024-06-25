@@ -11,7 +11,7 @@ bodyClass: page-about
 
 The structure of the Stelpur Forrita workshop is largely inspired by the success of Nanna Kristjánsdóttir's [Stelpur Diffra workshop](https://www.stelpurdiffra.is/).
 
-Each day, a different theme is explored. The day will start with an introduction to the instructor(s) of the day, then the materials will be explored with a presentation, quizzes, and exercises. The general agenda can be found below:
+Each day of the 5-day workshop, participants will be introduced to different topics under the guidance of instructors with experience in the field. The day will start with an introduction to the instructor(s) of the day, then the materials will be explored with a presentation, quizzes, and exercises. The general agenda can be found below:
 
 ### Day 1: Introduction, mingling
 #### with Ada, Nörd, and sys/tur student representatives

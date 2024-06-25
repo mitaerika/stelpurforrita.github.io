@@ -20,5 +20,5 @@ Stelpur Forrita is created with the following goals:
 
 To approach the three goals above, we strive to create a fun and informative 5-day workshop as an early engagement program in which:
 1. Participants have the opportunity to make meaningful social connections with peers who share their interest in IT.
-2. Participants can connect with role models who provide insight to academic life and career paths/opportunities after graduation.
-3. Participants can make the connection between theoretical knowledge taught at university with their real-life application, with the guidance of subject matter experts.
+2. Participants can connect with experienced professionals who provide insight to academic life and career paths/opportunities after graduation.
+3. Participants can make the connection between theoretical knowledge taught at university with their real-life application, under the guidance of subject matter experts.
