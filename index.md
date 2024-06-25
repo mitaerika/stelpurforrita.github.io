@@ -18,7 +18,7 @@ show_call_box: true
 - [x]  curious about university life as a computer science/software engineering student
 - [x]  excited to meet other women and genderqueer individuals with the same interest as you
 <br>
-<p style="margin-top: 5px">Join Stelpur Forrita on 12-16 August 2024 at the University of Iceland! No experience or prior knowledge necessary, everyone over the age of 18 is welcome :)</p>
+<p style="margin-top: 5px">Join Stelpur Forrita on 12-16 August 2024 at the University of Iceland! No prior knowledge necessary, everyone over the age of 18 is welcome :)</p>
 
 <br>
 

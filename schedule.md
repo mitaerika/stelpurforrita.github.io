@@ -15,27 +15,32 @@ Each day of the 5-day workshop, participants will be introduced to different top
 
 ### Day 1: Introduction, mingling
 #### with Ada, Nörd, and sys/tur student representatives
+##### Language of instruction: Icelandic
 - Topics: Software development as collaborative work, GitHub
 - Lunch provided by Arion Bank
 
 ### Day 2: E-Commerce
 #### with Valenttina Griffin
+##### Language of instruction: English
 - Topics: Project management, web development, bringing ideas to reality
 - Lunch provided by Arion Bank
 - Company visit to Tegra (optional attendance)
 
 ### Day 3: Cybersecurity
 #### with Jacky Mallet
+##### Language of instruction: English
 - Lunch provided by Arion Bank
 - Company visit to Keystrike (optional attendance)
 
 ### Day 4: AI (Language Technology)
 #### with Steinunn Rut Friðriksdóttir
+##### Language of instruction: Icelandic
 - Topics: Natural Language Processing, life in academia
 - Lunch provided by Arion Bank
 
 ### Day 5: Career paths post graduation
 #### with Safa Jemai
+##### Language of instruction: Icelandic and English
 - Topics: Entrepreneurship, hackathon, startup competition, employment
 - Lunch presentation at CCP
 - Company visit to RB, closing ceremony
@@ -120,4 +125,4 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
 <p style="background: #FFFF00">Setberg</p>
 <p style="background: #FF9D85">Háskólinn í Reykjavík?</p>
 <p style="background: #BDF7D6">Gróska</p>
-<p style="background: #1A6EF4">Optional attendance</p>
+<p style="background: #1A6EF4; color: white">Optional attendance</p>
