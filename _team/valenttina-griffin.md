@@ -3,7 +3,7 @@ title: "Valenttina Griffin"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/valenttina.jpg"
 jobtitle: "Instructor"
-linkedinurl: "https://www.linkedin.com/in/steinunnrutfridriksdottir/"
+linkedinurl: "https://linkedin.com/in/valenttina-griffin-227518a3"
 instructor: true
 weight: 1
 ---

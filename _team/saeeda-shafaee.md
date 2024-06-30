@@ -3,7 +3,7 @@ title: "Saeeda Shafaee"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/saeeda.jpg"
 jobtitle: "Co-founder"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/saeeda-shafaee-9141a1b7"
 organizer: true
 weight: 1
 ---
