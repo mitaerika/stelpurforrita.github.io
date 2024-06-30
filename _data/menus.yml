@@ -9,7 +9,7 @@ main:
   url: "/people/"
   weight: 4
 - name: "Sponsors"
-  url: "/news/"
+  url: "/sponsors/"
   weight: 5
 
 footer:

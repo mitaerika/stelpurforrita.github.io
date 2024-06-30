@@ -9,6 +9,14 @@
   @include img-fluid();
 }
 
+.img-logo{
+  @include img-logo();
+}
+
+
+.img-logo-second{
+  @include img-logo-second();
+}
 
 // Image thumbnails
 .img-thumbnail {

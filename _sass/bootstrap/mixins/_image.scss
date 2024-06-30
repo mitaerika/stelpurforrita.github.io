@@ -14,3 +14,16 @@
   // when setting a width and height attribute on the img element.
   height: auto;
 }
+
+@mixin img-logo {
+  height: 100px;
+  width: auto;
+  max-width: 100%;
+}
+
+
+@mixin img-logo-second {
+  max-height: 50px;
+  width: auto;
+  max-width: 100%;
+}
