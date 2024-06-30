@@ -23,7 +23,7 @@ bodyClass: "page-teams"
         {% assign supporters = site.supporter | where: "promoted", true | sort: "weight" %}
         {% for supporter in supporters %}
         <div class="col-12 col-md-12 mb-12">
-            <a href="{{ supporter.url }}">
+            <a href="{{ supporter.website }}">
                 <img alt="{{ supporter.name }}" class="img-logo mb-2" src="{{ supporter.image | relative_url }}"/>
             </a>
         </div>
