@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Sponsors
 
-Stelpur Forrita would not be possible without the support of our sponsors who believe in the importance of action in supporting women and genderqueer individuals in their journey in IT.
+Stelpur Forrita would not be possible without the support of Icelandic institutions and companies who believe in the importance of action in supporting women and genderqueer individuals in their journey in IT.

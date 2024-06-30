@@ -19,6 +19,7 @@ bodyClass: "page-teams"
 </div>
 
 <div class="container pt-6 pb-6">
+    <h1>Sponsors</h1>
     <div class="row">
         {% assign supporters = site.supporter | where: "promoted", true | sort: "weight" %}
         {% for supporter in supporters %}
@@ -29,11 +30,14 @@ bodyClass: "page-teams"
         </div>
         {% endfor %}
     </div>
+</div>
+<div class="container pt-6 pb-6">
+    <h1>Partners</h1>
     <div class="row pt-6 pb-6">
         {% assign supporters = site.supporter | where: "promoted", false | sort: "weight" %}
         {% for supporter in supporters %}
         <div class="col-12 col-md-4 mb-3">
-            <a href="{{ supporter.url }}">
+            <a href="{{ supporter.website }}">
                 <img alt="{{ supporter.name }}" class="img-logo-second mb-2" src="{{ supporter.image | relative_url }}"/>
             </a>
         </div>
