@@ -30,7 +30,7 @@ Each day of the 5-day workshop, participants will be introduced to different top
 #### with Jacky Mallet
 ##### Language of instruction: English
 - Lunch provided by Arion Bank
-- Company visit to Keystrike possible (optional attendance)
+- Company visit to Keystrike (optional attendance)
 
 ### Day 4: AI (Language Technology)
 #### with Steinunn Rut Friðriksdóttir
@@ -107,12 +107,12 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
             start: '{{ event.start }}',
             end: '{{ event.end }}',
             url: '{{ event.url }}',
-            backgroundColor: '{{ event.color }}'
+            backgroundColor: '{{ event.color }}',
           }
           {% unless forloop.last %},{% endunless %}
         {% endfor %}
       ],
-      eventTextColor: 'black',
+      eventTextColor: 'black'
     });
     calendar.render();
   });
@@ -123,7 +123,7 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
 <br>
 <p>Color coded locations and details:</p>
 
-<p style="background: #FFFF00">Setberg</p>
-<p style="background: #FF9D85">To be announced</p>
-<p style="background: #BDF7D6">Gróska</p>
-<p style="background: #1A6EF4; color: white">Optional attendance</p>
+<p style="background: #FFFF00; color: black">Setberg</p>
+<p style="background: #FF9D85; color: black">To be announced</p>
+<p style="background: #BDF7D6; color: black">Gróska</p>
+<p style="background: #5E99F7; color: black">Optional attendance</p>
