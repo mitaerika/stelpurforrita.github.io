@@ -124,6 +124,5 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
 <p>Color coded locations and details:</p>
 
 <p style="background: #FFFF00; color: black">Setberg</p>
-<p style="background: #FF9D85; color: black">To be announced</p>
 <p style="background: #BDF7D6; color: black">Gróska</p>
 <p style="background: #5E99F7; color: black">Optional attendance</p>

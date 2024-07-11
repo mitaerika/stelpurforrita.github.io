@@ -62,19 +62,19 @@
   start: "2024-08-14T09:00:00"
   end: "2024-08-14T11:59:00"
   url: "/events/event3"
-  color: "#FF9D85"
+  color: '#FFFF00'
 
 - title: "Lunch"
   start: "2024-08-14T12:00:00"
   end: "2024-08-14T13:00:00"
   url: "/events/event1"
-  color: "#FF9D85"
+  color: '#FFFF00'
 
 - title: "Cybersecurity practice"
   start: "2024-08-14T13:01:00"
   end: "2024-08-14T14:30:00"
   url: "/events/event2"
-  color: "#FF9D85"
+  color: '#FFFF00'
 
 - title: "Travel time"
   start: "2024-08-14T14:31:00"
