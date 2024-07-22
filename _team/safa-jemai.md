@@ -2,7 +2,7 @@
 title: "Safa Jemai"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/safa.jpg"
-jobtitle: "Instructor"
+jobtitle: "Founder, Víkonnekt"
 linkedinurl: "https://www.linkedin.com/in/safa-jemai-72677b19a/"
 instructor: true
 weight: 1

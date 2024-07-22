@@ -2,7 +2,7 @@
 title: "Steinunn Rut Friðriksdóttir"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/steinunn.jpg"
-jobtitle: "Instructor"
+jobtitle: "PhD student"
 linkedinurl: "https://www.linkedin.com/in/steinunnrutfridriksdottir/"
 instructor: true
 weight: 2
