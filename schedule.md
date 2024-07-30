@@ -106,7 +106,7 @@ In 2024, Stelpur Forrita is scheduled to take place on the following:
             title: '{{ event.title }}',
             start: '{{ event.start }}',
             end: '{{ event.end }}',
-            url: '{{ event.url }}',
+            url: '{{ event.url | ''}}',
             backgroundColor: '{{ event.color }}',
           }
           {% unless forloop.last %},{% endunless %}
