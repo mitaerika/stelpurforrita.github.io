@@ -14,8 +14,8 @@ The structure of the Stelpur Forrita workshop is largely inspired by the success
 Each day of the 5-day workshop, participants will be introduced to different topics under the guidance of instructors with experience in the field. The day will start with an introduction to the instructor(s) of the day, then the materials will be explored with a presentation, quizzes, and exercises. The general agenda can be found below:
 
 ### Day 1: Introduction, mingling
-#### with Ada and Nörd student representatives
-##### Language of instruction: Icelandic
+#### with Sigyn Jónsdóttir, student association Nörd and Ada
+##### Language of instruction: English
 - Topics: Software development as collaborative work, GitHub
 - Lunch provided by Arion Bank
 
@@ -24,20 +24,20 @@ Each day of the 5-day workshop, participants will be introduced to different top
 ##### Language of instruction: English
 - Topics: Project management, web development, bringing ideas to reality
 - Lunch provided by Arion Bank
-- Company visit to Tegra (optional attendance)
+- Company visit to Tegra (optional attendance): Hlíðasmári 4, 201 Kópavogur
 
 ### Day 3: Cybersecurity
 #### with Jacky Mallet
 ##### Language of instruction: English
 - Lunch provided by Arion Bank
-- Company visit to Keystrike (optional attendance)
+- Company visit to Keystrike (optional attendance): Ögurhvarf 8B, 203 Kópavogur
 
 ### Day 4: AI (Language Technology)
 #### with Steinunn Rut Friðriksdóttir
 ##### Language of instruction: Icelandic
 - Topics: Natural Language Processing, life in academia
 - Lunch provided by Arion Bank
-- Company visit to Árni Magnússon Institute for Icelandic Studies (optional attendance)
+- Company visit to Árni Magnússon Institute for Icelandic Studies (optional attendance): Arngrímsgata 5, 101 Reykjavík
 
 ### Day 5: Career paths post graduation
 #### with Safa Jemai
