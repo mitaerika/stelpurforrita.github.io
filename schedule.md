@@ -31,6 +31,7 @@ Each day of the 5-day workshop, participants will be introduced to different top
 ##### Language of instruction: English
 - Lunch provided by Arion Bank
 - Company visit to Keystrike (optional attendance): Ögurhvarf 8B, 203 Kópavogur
+    - No transportation provided
 
 ### Day 4: AI (Language Technology)
 #### with Steinunn Rut Friðriksdóttir
@@ -38,6 +39,7 @@ Each day of the 5-day workshop, participants will be introduced to different top
 - Topics: Natural Language Processing, life in academia
 - Lunch provided by Arion Bank
 - Company visit to Árni Magnússon Institute for Icelandic Studies (optional attendance): Arngrímsgata 5, 101 Reykjavík
+    - No transportation provided
 
 ### Day 5: Career paths post graduation
 #### with Safa Jemai
