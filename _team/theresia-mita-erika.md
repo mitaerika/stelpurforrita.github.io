@@ -3,7 +3,7 @@ title: "Theresia Mita Erika"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/mita.jpg"
 jobtitle: "Co-founder"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://linkedin.com/in/mitaerika"
 organizer: true
 weight: 2
 ---
