@@ -25,13 +25,14 @@ Each day of the 5-day workshop, participants will be introduced to different top
 - Topics: Project management, web development, bringing ideas to reality
 - Lunch provided by Arion Bank
 - Company visit to Tegra (optional attendance): Hlíðasmári 4, 201 Kópavogur
+    - Transportation provided by Tegra
 
 ### Day 3: Cybersecurity
 #### with Jacky Mallet
 ##### Language of instruction: English
 - Lunch provided by Arion Bank
 - Company visit to Keystrike (optional attendance): Ögurhvarf 8B, 203 Kópavogur
-    - No transportation provided
+    - Transportation provided by Keystrike
 
 ### Day 4: AI (Language Technology)
 #### with Steinunn Rut Friðriksdóttir
@@ -47,6 +48,7 @@ Each day of the 5-day workshop, participants will be introduced to different top
 - Topics: Entrepreneurship, hackathon, startup competition, employment
 - Lunch presentation at CCP
 - Company visit to RB, closing ceremony
+    - No transportation provided
 
 # Schedule
 
