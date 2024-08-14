@@ -36,7 +36,7 @@ Each day of the 5-day workshop, participants will be introduced to different top
     
 ### Day 4: AI (Language Technology)
 #### with Steinunn Rut Friðriksdóttir
-##### Language of instruction: Icelandic
+##### Language of instruction: English
 - Topics: Natural Language Processing, life in academia
 - Lunch provided by Arion Bank
 - Company visit to Árni Magnússon Institute for Icelandic Studies (optional attendance): Arngrímsgata 5, 101 Reykjavík
@@ -44,7 +44,7 @@ Each day of the 5-day workshop, participants will be introduced to different top
 
 ### Day 5: Career paths post graduation
 #### with Safa Jemai
-##### Language of instruction: Icelandic and English
+##### Language of instruction: English
 - Topics: Entrepreneurship, hackathon, startup competition, employment
 - Lunch presentation at CCP
 - Company visit to RB, closing ceremony
