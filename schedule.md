@@ -31,9 +31,9 @@ Each day of the 5-day workshop, participants will be introduced to different top
 #### with Jacky Mallet
 ##### Language of instruction: English
 - Lunch provided by Arion Bank
-- Company visit to Keystrike (optional attendance): Ögurhvarf 8B, 203 Kópavogur
-    - Transportation provided by Keystrike
-
+- ~~Company visit to Keystrike (optional attendance): Ögurhvarf 8B, 203 Kópavogur~~
+    - cancelled
+    
 ### Day 4: AI (Language Technology)
 #### with Steinunn Rut Friðriksdóttir
 ##### Language of instruction: Icelandic
